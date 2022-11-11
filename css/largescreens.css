@@ -1,0 +1,44 @@
+@import "../style.css";
+html{
+width: 100%;
+}
+@media only screen and (min-width:1201px){
+#info{
+    height: 19rem;
+    margin-left:2rem!important;
+}
+#gray_bg{
+    height:58rem;
+}
+    .event{
+    margin-top: 4rem;
+}
+.event-heading{
+margin-top: 0rem!important;
+}
+.up-event{
+    width: 33rem!important;
+    /* border: 2px solid black; */
+    margin-left: 0rem!important;
+}
+.up-card{
+    width: 26rem!important;
+    margin-left: 3rem!important;
+}
+.past-event{
+    width: 35rem!important;
+    margin-left: 2rem!important;
+}
+.past-card{
+    width: 16rem;
+}
+.name{
+    margin-left: 19rem;
+}
+.team-cont-achalsir{
+    margin-left: 6rem!important;
+}
+.team-cont-shewtamaam{
+    margin-left: 11rem!important;
+}
+}
