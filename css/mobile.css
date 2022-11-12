@@ -27,18 +27,18 @@
    margin-left:-15rem!important;
   }
   .event{
-   margin-top: 43rem!important;
+   margin-top: 48rem!important;
    margin-bottom: 0rem!important;
    height: auto!important;
   }
   .up-card{
    width: 21rem!important;
-   margin-left: 2rem!important;
+   margin-left: 0rem!important;
   }
   .past-event{
    width: 18rem !important;
    /* border: 2px solid black; */
-   margin-left: 5rem !important;
+   margin-left: 0rem !important;
 }
   
   .past-card{
@@ -54,7 +54,7 @@
    margin-left: 5rem!important;
   }
   #team{
-   margin-top: 9rem!important;
+   margin-top: 17rem!important;
   }
   .team-cont-achalsir{
    margin-left: 3rem!important;
@@ -157,7 +157,7 @@ div.head{
    font-size: 3.5rem!important;
 }
 #login{
-   height: 5rem!important;
+   height: 12rem!important;
    margin-bottom: 18rem;
 }
 .login-btn{
