@@ -119,7 +119,7 @@ margin-top: 5rem!important;
 .past-event{
   width: 50rem;
   /* border: 2px solid black; */
-  margin-left:3rem !important;
+  margin-left:3rem;
 }
 .past-card{
   width: 21rem;
