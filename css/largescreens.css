@@ -5,7 +5,7 @@ width: 100%;
 @media only screen and (min-width:1201px){
 #info{
     height: 19rem;
-    margin-left:2rem!important;
+    margin-left:12rem!important;
 }
 #gray_bg{
     height:58rem;
@@ -26,11 +26,11 @@ margin-top: 0rem!important;
     margin-left: 3rem!important;
 }
 .past-event{
-    width: 35rem!important;
+    width: 50rem!important;
     margin-left: 2rem!important;
 }
 .past-card{
-    width: 16rem;
+    width: 20rem;
 }
 .name{
     margin-left: 19rem;
@@ -39,6 +39,9 @@ margin-top: 0rem!important;
     margin-left: 6rem!important;
 }
 .team-cont-shewtamaam{
-    margin-left: 11rem!important;
+    margin-left: 12rem!important;
+}
+.sponsor-container{
+    margin-left: 9rem!important;
 }
 }
