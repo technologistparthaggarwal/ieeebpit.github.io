@@ -2,7 +2,7 @@
 html{
 width: 100%;
 }
-@media only screen and (min-width:1201px){
+@media only screen and (min-width:1201px)and (max-width:2000px){
 #info{
     height: 19rem;
     margin-left:12rem!important;
@@ -22,7 +22,7 @@ margin-top: 0rem!important;
     margin-left: 0rem!important;
 }
 .up-card{
-    width: 26rem!important;
+    width: 21rem!important;
     margin-left: 3rem!important;
 }
 .past-event{
@@ -30,7 +30,7 @@ margin-top: 0rem!important;
     margin-left: 2rem!important;
 }
 .past-card{
-    width: 20rem;
+    width: 16rem!important;
 }
 .name{
     margin-left: 19rem;
