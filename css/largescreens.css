@@ -4,44 +4,44 @@ width: 100%;
 }
 @media only screen and (min-width:1201px)and (max-width:2000px){
 #info{
-    height: 19rem;
-    margin-left:12rem!important;
+    height: 19vh;
+    margin-left:12vw!important;
 }
 #gray_bg{
-    height:58rem;
+    height:58vh;
 }
     .event{
-    margin-top: 4rem;
+    margin-top: 4vw;
 }
 .event-heading{
-margin-top: 0rem!important;
+margin-top: 0vw!important;
 }
 .up-event{
-    width: 33rem!important;
+    width: 33vw!important;
     /* border: 2px solid black; */
-    margin-left: 0rem!important;
+    margin-left: 0vw!important;
 }
 .up-card{
-    width: 21rem!important;
-    margin-left: 3rem!important;
+    width: 21vw!important;
+    margin-left: 3vw!important;
 }
 .past-event{
-    width: 50rem!important;
-    margin-left: 2rem!important;
+    width: 50vw!important;
+    margin-left: 2vw!important;
 }
 .past-card{
-    width: 16rem!important;
+    width: 16vw!important;
 }
 .name{
-    margin-left: 19rem;
+    margin-left: 19vw;
 }
 .team-cont-achalsir{
-    margin-left: 6rem!important;
+    margin-left: 6vw!important;
 }
 .team-cont-shewtamaam{
-    margin-left: 12rem!important;
+    margin-left: 12vw!important;
 }
 .sponsor-container{
-    margin-left: 9rem!important;
+    margin-left: 9vw!important;
 }
 }
