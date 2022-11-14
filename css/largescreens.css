@@ -4,11 +4,11 @@ width: 100%;
 }
 @media only screen and (min-width:1201px)and (max-width:2000px){
 #info{
-    height: 19vh;
+    height: 57vh;
     margin-left:12vw!important;
 }
 #gray_bg{
-    height:58vh;
+    height:120vh;
 }
     .event{
     margin-top: 4vw;
@@ -39,7 +39,10 @@ margin-top: 0vw!important;
     margin-left: 6vw!important;
 }
 .team-cont-shewtamaam{
-    margin-left: 12vw!important;
+    margin-left: 15vw!important;
+}
+#login{
+    height: 75vh;
 }
 .sponsor-container{
     margin-left: 9vw!important;
