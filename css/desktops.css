@@ -1,50 +1,50 @@
 @media only screen and (min-width:992px) and (max-width:1200px){
    #info {
-      height: 12rem;
-      margin-left: 1rem;
+      height: 12vh;
+      margin-left: 1vw;
    }
    .about-us {
-      width: 18rem!important;
-      margin-right: 1rem;
+      width: 18vw!important;
+      margin-right: 1vw;
   }
   .mission {
-   width: 15rem;
-   margin-right: 1rem;
+   width: 15vw;
+   margin-right: 1vw;
   }
   .event {
-   margin-top: 21rem!important; 
-   height:54rem!important;
+   margin-top: 21vh!important; 
+   height:54vh!important;
 }
 .up-event {
-   width: 16rem !important;
-   margin-left: 0rem!important;
-   margin-right: 3rem!important;
+   width: 16vw !important;
+   margin-left: 0vw!important;
+   margin-right: 3vw!important;
 }
 .up-card {
-   width: 21rem!important;
+   width: 21vw!important;
 }
 .past-event {
-   width: 36rem !important;
+   width: 36vw !important;
    /* border: 2px solid black; */
-   margin-left: 5rem !important;
+   margin-left: 5vw !important;
 }
 .past-card {
-   width: 16rem!important;
+   width: 16vw!important;
 }
 #team{
-   margin-top: 0rem!important;
+   margin-top: 0vw!important;
 }
 .team-cont-p {
-   margin-left: -6rem;
+   margin-left: -6vw;
 }
 .team-cont-a{
-   margin-left: -3rem!important;
+   margin-left: -3vw!important;
 }
 .name{
-   margin-left: 12rem!important;
+   margin-left: 12vw!important;
 }
 .as{
-   margin-left: 13rem!important;
+   margin-left: 13vw!important;
 }
 
 }
