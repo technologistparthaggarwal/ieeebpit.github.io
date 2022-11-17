@@ -32,101 +32,101 @@
 }
 
 .up-card{
-  margin-left:5.5vw;
+  margin-left:5.5rem;
   margin-right: 0px;
-  width: 30vw;
+  width: 30rem;
 
 }
 .event-heading{
   width:100%;
   font-style: italic;
-  margin-top:3vw!important;
+  margin-top:3rem!important;
 }
 .excom{
-  margin-top: 0vw;
+  margin-top: 0rem;
 }
 .d{
-  margin-left: 7vw!important;
+  margin-left: 7rem!important;
 }
 #team{
-  margin-top: 0vw;
+  margin-top: 0rem;
 }
 .jay{
-  margin-left: 2.5vw!important;
+  margin-left: 2.5rem!important;
 }
 .aditya{
-  margin-left:12vw;
+  margin-left:12rem;
 }
 .harshit-heading{
-  margin-left:-3vw;
+  margin-left:-3rem;
 }
 .mt-n10{
-  margin-top: -4vw!important;
+  margin-top: -4rem!important;
 }
 .ml-n7{
-margin-left: 9vw !important;
+margin-left: 9rem !important;
 }
 .ml-n8{
-  margin-left: 7vw!important;
+  margin-left: 7rem!important;
 }
 .ml-n9{
-  margin-left: 2.5vw !important;
+  margin-left: 2.5rem !important;
 }
 .ml-n10{
-  margin-left: -3vw!important;
+  margin-left: -3rem!important;
 }
 #info{
-  height:12vh; 
+  height:12rem; 
   margin-left: auto !important; 
 }
 .about-us{
-  width: 30vw;
-  margin-right: 1vw;
+  width: 30rem;
+  margin-right: 1rem;
 }
 .mission{
-  width: 21vw;
-  margin-right: 1vw;
+  width: 21rem;
+  margin-right: 1rem;
 }
 .name{
   text-align: center;
   
 }
 .up-event{
-  width: 30vw;
+  width: 30rem;
   /* border: 2px solid black; */
-  margin-left:3vw;
+  margin-left:3rem;
 
 }
 .mt-n8{
-  margin-top: -5.5vw!important;
+  margin-top: -5.5rem!important;
 }
 .info{
   width: 75% !important;
 }
 .mt-n9{
-margin-top: 5vw!important;
+margin-top: 5rem!important;
 }
 .mt-n11{
-  margin-top: 3vw;
+  margin-top: 3rem;
 }
 .btn-ml-n1{
-  margin-left: 27vw!important;
+  margin-left: 27rem!important;
 }
 .heading{
-  margin-top:3vw!important;
-  margin-bottom: 3vw!important;
+  margin-top:3rem!important;
+  margin-bottom: 3rem!important;
 }
 .past-event{
-  width: 50vw;
+  width: 50rem;
   /* border: 2px solid black; */
-  margin-left:3vw;
+  margin-left:3rem !important;
 }
 .past-card{
-  width: 21vw;
+  width: 21rem;
 }
 
 .up-event-heading{
-  margin-left: 0vw!important;
+  margin-left: 0rem!important;
 }
 .nav-item:hover {
     
@@ -134,12 +134,12 @@ margin-top: 5vw!important;
     animation: text-pop-up-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 }
 #login{
-  height: 21vh;
+  height: 21rem;
 }
 .login-btn{
   background-image:linear-gradient(90deg, rgba(50,60,189,1) 27%, rgba(64,8,233,1) 50%, rgba(0,212,255,1) 90%); 
   margin-top: 3%;
-  margin-left: 30vw;
+  margin-left: 30rem;
 }
 .spon{
   color: white;
@@ -273,7 +273,7 @@ color: white !important;
     border-radius: 25px !important;
 }
 .head{
-  font-family:"Times New Roman", Times, serif;
+  font-family: "sans-serif";
   color: black !important;
 }
 
@@ -447,7 +447,7 @@ color: white !important;
  
 #gray_bg{
     background-color: #f5f5f5;
-    height:18vh;
+    height:18rem;
 }
 
 #mssg{
@@ -525,15 +525,15 @@ to {
 	  z-index: 1;
   } */
 .event{
-  margin-bottom: 0vw;
+  margin-bottom: 0rem;
   height: auto;
-  margin-top: 18vh;
+  margin-top: 18rem;
 }
 .event-container{
   height:175vh;
 }
 .vision{
-  width: 16vw;
+  width: 16rem;
 }
 .img{
   height: 21px;
@@ -541,20 +541,20 @@ to {
 }
 
 .team-cont-p{
-  margin-top: 0vw;
+  margin-top: 0rem;
 }
 .team-cont-j{
-  margin-top: 0vw!important;
-  margin-left: -3vw;
+  margin-top: 0rem!important;
+  margin-left: -3rem;
 }
 .team-cont-a{
-  margin-top: 0vw!important;
+  margin-top: 0rem!important;
 }
 .team-cont-h{
-  margin-left: 1vw;
+  margin-left: 1rem;
 }
 .sponsor-container{
-  margin-left: 9vw;
+  margin-left: 9rem;
 }
 .aptech{
   width: 152px; 
